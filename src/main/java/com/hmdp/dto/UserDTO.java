@@ -1,5 +1,6 @@
 package com.hmdp.dto;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 
 @Data
