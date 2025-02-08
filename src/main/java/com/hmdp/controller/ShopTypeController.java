@@ -30,5 +30,6 @@ public class ShopTypeController {
 //        List<ShopType> typeList = typeService
 //                .query().orderByAsc("sort").list();
         return typeService.queryTypeList();
+//        return Result.ok(typeList);
     }
 }
